@@ -1,0 +1,15 @@
+embedding_size 16
+save_path results/
+lamb 0.5
+data_path D:\hybridrec\dataset\split_train_test//preprocessing_code//euroroad//train_euroroad_directed_0_giantCom.edgelist
+index_from_0 True
+K 1
+batch_size 16
+grad_clip 5.0
+save_suffix eni
+undirected True
+learning_rate 0.0025
+sampling_size 100
+alpha 0.0
+seed -1
+epochs_to_train 20

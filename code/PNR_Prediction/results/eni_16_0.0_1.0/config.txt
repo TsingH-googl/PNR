@@ -1,0 +1,15 @@
+save_path results/
+K 1
+seed -1
+lamb 1.0
+epochs_to_train 20
+sampling_size 300
+save_suffix eni
+grad_clip 5.0
+data_path D:\hybridrec\dataset\split_train_test//preprocessing_code//ca-hepph//train_ca-hepph_directed_0_giantCom.edgelist
+batch_size 16
+learning_rate 0.0025
+undirected True
+alpha 0.0
+embedding_size 16
+index_from_0 True

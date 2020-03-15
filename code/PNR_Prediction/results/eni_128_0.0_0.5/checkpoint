@@ -1,0 +1,3 @@
+model_checkpoint_path: "eni-1"
+all_model_checkpoint_paths: "eni-0"
+all_model_checkpoint_paths: "eni-1"

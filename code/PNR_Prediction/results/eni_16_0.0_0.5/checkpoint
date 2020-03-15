@@ -1,0 +1,6 @@
+model_checkpoint_path: "eni-19"
+all_model_checkpoint_paths: "eni-15"
+all_model_checkpoint_paths: "eni-16"
+all_model_checkpoint_paths: "eni-17"
+all_model_checkpoint_paths: "eni-18"
+all_model_checkpoint_paths: "eni-19"

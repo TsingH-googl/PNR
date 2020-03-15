@@ -1,0 +1,15 @@
+grad_clip 5.0
+undirected True
+embedding_size 128
+alpha 0.0
+K 1
+index_from_0 True
+lamb 0.5
+data_path D:\hybridrec\dataset\split_train_test//preprocessing_code2//dblp//train_dblp_directed_0_giantCom.edgelist
+seed -1
+save_path results/
+save_suffix eni
+epochs_to_train 20
+sampling_size 100
+learning_rate 0.0025
+batch_size 16

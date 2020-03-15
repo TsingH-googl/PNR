@@ -1,0 +1,15 @@
+alpha 0.0
+lamb 1.0
+grad_clip 5.0
+undirected True
+epochs_to_train 20
+embedding_size 8
+data_path D:\hybridrec\dataset\split_train_test//preprocessing_code//karate//train_karate_directed_0_giantCom.edgelist
+batch_size 8
+K 1
+save_path results/
+save_suffix eni
+index_from_0 True
+learning_rate 0.0025
+sampling_size 300
+seed -1
